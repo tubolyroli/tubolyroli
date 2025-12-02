@@ -9,9 +9,9 @@ I enjoy working on:
 
 ## What I know and use
 
-Programming languages: Python, R
-Tools: Git, Jupyter, VS Code, Microsoft Excel
-Topics: statistics, machine learning basics, network analysis
+- Programming languages: Python, R
+- Tools: Git, Jupyter, VS Code, Microsoft Excel
+- Topics: statistics, machine learning basics, network analysis
 
 I treat this list as a snapshot of what I am actually using, not everything I have ever touched.
 
