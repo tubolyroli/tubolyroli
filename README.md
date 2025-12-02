@@ -1,16 +1,38 @@
-## Hi there 👋
+# ROLAND TUBOLY
 
-<!--
-**tubolyroli/tubolyroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Social Data Science Master's student with an interest in Machine Learning, LLMs and Network Science, currently based in Budapest, Hungary.
 
-Here are some ideas to get you started:
+I enjoy working on:
+- Linking urban form and public transport topology to access and opportunities
+- Measuring segregation and fragmentation in counties using national data
+- Building reproducible analyses on football-related and musical data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I know and use
+
+Programming languages: Python, R
+Tools: Git, Jupyter, VS Code, Microsoft Excel  
+Topics: statistics, machine learning basics, network analysis
+
+I treat this list as a snapshot of what I am actually using, not everything I have ever touched.
+
+## Highlighted repositories
+
+- [repo-1](https://github.com/USER/repo-1)  
+  Short description of the project, the data or problem, and the main result.
+
+- [repo-2](https://github.com/USER/repo-2)  
+  Short description focused on what you implemented (for example: wrote the data pipeline, implemented the model, built the frontend).
+
+- [repo-3](https://github.com/USER/repo-3)  
+  Short description that shows something different from the first two (for example: course project, personal experiment, or contribution to another repo).
+
+## What I am working on right now
+
+- Learning: SQL, interactive data apps with Shiny and Streamlit
+- Building: small reproducible projects on network robustness, diffusion, and urban inequality using open data
+- Improving: better version control workflows
+
+## How to reach me
+
+- Email: tuboly.roland.levente@gmail.com  
+- LinkedIn or other profile: https://www.linkedin.com/in/rolandtuboly10
