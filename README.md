@@ -35,4 +35,4 @@ I treat this list as a snapshot of what I am actually using, not everything I ha
 ## How to reach me
 
 - Email: tuboly.roland.levente@gmail.com  
-- LinkedIn or other profile: https://www.linkedin.com/in/rolandtuboly10
+- LinkedIn: https://www.linkedin.com/in/rolandtuboly10
