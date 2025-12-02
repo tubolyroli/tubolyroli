@@ -1,8 +1,9 @@
 # ROLAND TUBOLY
-![IMG_2490](https://github.com/user-attachments/assets/efd5bd44-6ca5-4ba0-b9a7-d9a2a44e4b81)
+![IMG_2490](https://github.com/user-attachments/assets/7053bf67-13bb-43be-b1d0-ff64c3ed5cd8)
 I am a Social Data Science Master's student with an interest in Machine Learning, LLMs and Network Science, currently based in Budapest, Hungary.
 
 I enjoy working on:
+
 - Linking urban form and public transport topology to access and opportunities
 - Measuring segregation and fragmentation in counties using national data
 - Building reproducible analyses on football-related and musical data
