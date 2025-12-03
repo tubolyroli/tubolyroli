@@ -24,8 +24,8 @@ I treat this list as a snapshot of what I am actually using, not everything I ha
 - [repo-2](https://github.com/USER/repo-2)  
   Short description focused on what you implemented (for example: wrote the data pipeline, implemented the model, built the frontend).
 
-- [repo-3](https://github.com/USER/repo-3)  
-  Short description that shows something different from the first two (for example: course project, personal experiment, or contribution to another repo).
+- [Network Analysis project](https://github.com/KrisX03/Differences-between-Hungarian-counties)  
+  Course project, where we studied the industrial structure of two geographically distant Hungarian counties - Győr-Moson-Sopron and Hajdú-Bihar - using network-analytic tools.
 
 ## What I am working on right now
 
