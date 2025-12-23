@@ -19,7 +19,7 @@ I treat this list as a snapshot of what I am actually using, not everything I ha
 ## Highlighted repositories
 
 - [UK Road Safety Analysis](https://github.com/tubolyroli/aimlgroupproject)  
-  Short description of the project, the data or problem, and the main result.
+ Built an end to end ML pipeline on UK STATS19 2024 road safety data to predict fatal collisions, with leakage safe preprocessing, class imbalance handling, and recall focused evaluation.
 
 - [repo-2](https://github.com/USER/repo-2)  
   Short description focused on what you implemented (for example: wrote the data pipeline, implemented the model, built the frontend).
@@ -35,5 +35,5 @@ I treat this list as a snapshot of what I am actually using, not everything I ha
 
 ## How to reach me
 
-- Email: tuboly.roland.levente@gmail.com  
+- Email: tuboly.roland.levente@gmail.com or roland.tuboly@stud.uni-corvinus.hu
 - LinkedIn: https://www.linkedin.com/in/rolandtuboly10
