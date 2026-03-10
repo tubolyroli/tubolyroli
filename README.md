@@ -1,14 +1,15 @@
-# ROLAND TUBOLY
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Roland%20Tuboly&fontColor=40e0d0&fontSize=60&fontAlignY=35&desc=Social%20Data%20Science%20%7C%20ML%20%7C%20Networks&descAlignY=55&descAlign=50"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_blue"/>
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+I'm a **Social Data Science Master's student** based in Budapest, Hungary, passionate about applying computational methods to understand social phenomena. My interests span **Machine Learning**, **LLMs**, and **Network Science**, with a focus on reproducible and impactful research.
 
-I am a Social Data Science Master's student with an interest in Machine Learning, LLMs and Network Science, currently based in Budapest, Hungary.
+**I enjoy working on:**
 
-I enjoy working on:
-
-- Linking urban form and public transport topology to access and opportunities
-- Measuring segregation and fragmentation in counties using national data
-- Building reproducible analyses on football-related and musical data
+- 🏙️ Linking urban form and public transport topology to access and opportunities  
+- 📊 Measuring segregation and fragmentation in counties using national data  
+- ⚽ Building reproducible analyses on football‑related and musical data  
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rolandtuboly10) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tuboly.roli.10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuboly.roland.levente@gmail.com)
@@ -18,17 +19,24 @@ I enjoy working on:
 
 ## Highlighted repositories
 
-- [UK Road Safety Analysis](https://github.com/tubolyroli/aimlgroupproject)  
- Built an end to end ML pipeline on UK STATS19 2024 road safety data to predict fatal collisions, with leakage safe preprocessing, class imbalance handling, and recall focused evaluation.
+- **[UK Road Safety Analysis](https://github.com/tubolyroli/aimlgroupproject)**  
+  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]() [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)]()  
+  Built an end‑to‑end ML pipeline on UK STATS19 2024 road safety data to predict fatal collisions, with leakage‑safe preprocessing, class imbalance handling, and recall‑focused evaluation.
 
-- [repo-2](https://github.com/USER/repo-2)  
-  Short description focused on what you implemented (for example: wrote the data pipeline, implemented the model, built the frontend).
+- **[LLM Knowledge Cutoff Bias (WIP)](https://github.com/tubolyroli/llm-cutoff-bias)**  
+  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]() [![RDD](https://img.shields.io/badge/-RDD-FF6F00?logo=stats&logoColor=white)]()  
+  Building an RDD estimation framework to test whether LLMs' training cutoffs create systemic bias against Python libraries released shortly after major cutoff dates, potentially hindering innovation diffusion in the Python ecosystem.
 
-- [Network Analysis project](https://github.com/KrisX03/Differences-between-Hungarian-counties)  
-  Course project, where we studied the industrial structure of two geographically distant Hungarian counties - Győr-Moson-Sopron and Hajdú-Bihar - using network-analytic tools.
+- **[Hungarian Counties Network Analysis](https://github.com/KrisX03/Differences-between-Hungarian-counties)**  
+  [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)]() [![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-4B8BBE?logo=networkx&logoColor=white)]()  
+  Course project studying industrial structure differences between Győr‑Moson‑Sopron and Hajdú‑Bihar counties using network‑analytic tools.
 
-## What I am working on right now
+## 🔭 What I'm working on right now
 
-- Learning: interactive data apps with Shiny and Streamlit
-- Building: small reproducible projects on network robustness, diffusion, and urban inequality using open data
-- Improving: better version control workflows
+- 📚 Learning: interactive data apps with **Shiny** and **Streamlit**  
+- 🛠️ Building: small reproducible projects on network robustness, diffusion, and urban inequality using open data  
+- 🚀 Improving: better version control workflows and research transparency  
+
+## 🎧 What I'm listening to
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hsjm5kfjyneulsinlybrk2y&count=3)
