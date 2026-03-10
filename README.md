@@ -8,13 +8,11 @@ I enjoy working on:
 - Measuring segregation and fragmentation in counties using national data
 - Building reproducible analyses on football-related and musical data
 
-## What I know and use
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rolandtuboly10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuboly.roland.levente@gmail.com) 
 
-- Programming languages: Python, R
-- Tools: Git, Jupyter, VS Code, Microsoft Excel
-- Topics: statistics, machine learning basics, network analysis
-
-I treat this list as a snapshot of what I am actually using, not everything I have ever touched.
+# Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Highlighted repositories
 
@@ -32,8 +30,3 @@ I treat this list as a snapshot of what I am actually using, not everything I ha
 - Learning: SQL, interactive data apps with Shiny and Streamlit
 - Building: small reproducible projects on network robustness, diffusion, and urban inequality using open data
 - Improving: better version control workflows
-
-## How to reach me
-
-- Email: tuboly.roland.levente@gmail.com or roland.tuboly@stud.uni-corvinus.hu
-- LinkedIn: https://www.linkedin.com/in/rolandtuboly10
