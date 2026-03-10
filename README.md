@@ -53,4 +53,6 @@ I'm a **Social Data Science Master's student** based in Budapest, Hungary, passi
 
 ---
 
-💬 **Let's connect!** I'm always open to discussing data science, collaboration opportunities, or just chatting about music and football analytics.
+<div align="center" style="background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 20px; padding: 15px 25px; margin: 20px 0; display: inline-block;">
+  <b>🤝 Let's connect!</b> I'm always open to discussions, collaboration opportunities, or just chatting about music and football analytics.🤝
+</div>
