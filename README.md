@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Roland%20Tuboly&fontColor=40e0d0&fontSize=60&fontAlignY=35&desc=Social%20Data%20Science%20%7C%20ML%20%7C%20Networks&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Roland%20Tuboly&fontColor=40e0d0&fontSize=60&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20and%20Network%20Science%20Enthusiast&descAlignY=55&descAlign=50"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_blue"/>
 </div>
 
-I'm a **Social Data Science Master's student** based in Budapest, Hungary, passionate about applying computational methods to understand social phenomena. My interests span **Machine Learning**, **LLMs**, and **Network Science**, with a focus on reproducible and impactful research.
+I'm a **Social Data Science Master's student** based in Budapest, Hungary, passionate about applying computational methods to understand social phenomena. My main interests are **Machine Learning**, **LLMs**, and **Network Science**, with a focus on reproducible and impactful research.
 
 **I enjoy working on:**
 
@@ -14,8 +14,15 @@ I'm a **Social Data Science Master's student** based in Budapest, Hungary, passi
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rolandtuboly10) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tuboly.roli.10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuboly.roland.levente@gmail.com)
 
-## Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+## 🛠️ Tech Stack
+**Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+**Data Science & ML**  
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NetworkX](https://img.shields.io/badge/networkx-1C6B8F?style=for-the-badge&logo=networkx&logoColor=white)
+
+**Databases & Tools**  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## Highlighted repositories
 
@@ -31,12 +38,19 @@ I'm a **Social Data Science Master's student** based in Budapest, Hungary, passi
   [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)]() [![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-4B8BBE?logo=networkx&logoColor=white)]()  
   Course project studying industrial structure differences between Győr‑Moson‑Sopron and Hajdú‑Bihar counties using network‑analytic tools.
 
-## 🔭 What I'm working on right now
+## 🌱 Currently learning
+- **Deep Learning** (PyTorch, Transformers)
+- **Productionizing ML models** (Docker, FastAPI)
+- **Advanced Network Analysis** (dynamic networks, graph neural networks)
 
-- 📚 Learning: interactive data apps with **Shiny** and **Streamlit**  
-- 🛠️ Building: small reproducible projects on network robustness, diffusion, and urban inequality using open data  
-- 🚀 Improving: better version control workflows and research transparency  
+## 🔭 What I'm working on right now
+- 📚 **Learning:** interactive data apps with **Shiny** and **Streamlit**  
+- 🛠️ **Building:** small reproducible projects on network robustness, diffusion, and urban inequality using open data  
+- 🚀 **Improving:** better version control workflows and research transparency  
 
 ## 🎧 What I'm listening to
-
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hsjm5kfjyneulsinlybrk2y&count=3)
+
+---
+
+💬 **Let's connect!** I'm always open to discussing data science, collaboration opportunities, or just chatting about music and football analytics.
