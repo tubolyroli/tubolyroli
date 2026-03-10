@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Roland%20Tuboly&fontColor=000080&fontSize=60&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20and%20Network%20Science%20Enthusiast&descAlignY=55&descAlign=50"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_blue"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </div>
 
 I'm a **Social Data Science Master's student** based in Budapest, Hungary, passionate about applying computational methods to understand social phenomena. My main interests are **Machine Learning**, **LLMs**, and **Network Science**, with a focus on reproducible and impactful research.
