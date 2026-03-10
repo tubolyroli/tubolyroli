@@ -8,7 +8,7 @@ I enjoy working on:
 - Measuring segregation and fragmentation in counties using national data
 - Building reproducible analyses on football-related and musical data
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rolandtuboly10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuboly.roland.levente@gmail.com) 
 
 # Tech Stack:
