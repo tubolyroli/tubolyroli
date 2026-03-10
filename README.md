@@ -29,6 +29,6 @@ I enjoy working on:
 
 ## What I am working on right now
 
-- Learning: SQL, interactive data apps with Shiny and Streamlit
+- Learning: interactive data apps with Shiny and Streamlit
 - Building: small reproducible projects on network robustness, diffusion, and urban inequality using open data
 - Improving: better version control workflows
