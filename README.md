@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Roland%20Tuboly&fontColor=40e0d0&fontSize=60&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20and%20Network%20Science%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Roland%20Tuboly&fontColor=000080&fontSize=60&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20and%20Network%20Science%20Enthusiast&descAlignY=55&descAlign=50"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_blue"/>
 </div>
 
