@@ -30,7 +30,7 @@ I'm a **Social Data Science Master's student** based in Budapest, Hungary, passi
   [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]() [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)]()  
   Built an end‑to‑end ML pipeline on UK STATS19 2024 road safety data to predict fatal collisions, with leakage‑safe preprocessing, class imbalance handling, and recall‑focused evaluation.
 
-- **[LLM Knowledge Cutoff Bias (WIP)](https://github.com/tubolyroli/llm-cutoff-bias)**  
+- **[LLM Knowledge Cutoff Bias](https://github.com/tubolyroli/thesis)**  
   [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]() [![RDD](https://img.shields.io/badge/-RDD-FF6F00?logo=stats&logoColor=white)]()  
   Building an RDD estimation framework to test whether LLMs' training cutoffs create systemic bias against Python libraries released shortly after major cutoff dates, potentially hindering innovation diffusion in the Python ecosystem.
 
