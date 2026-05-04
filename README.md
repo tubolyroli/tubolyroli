@@ -1,58 +1,54 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Roland%20Tuboly&fontColor=000080&fontSize=60&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20and%20Network%20Science%20Enthusiast&descAlignY=55&descAlign=50"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
-</div>
+# Roland Tuboly
 
-I'm a **Social Data Science Master's student** based in Budapest, Hungary, passionate about applying computational methods to understand social phenomena. My main interests are **Machine Learning**, **LLMs**, and **Network Science**, with a focus on reproducible and impactful research.
+Social Data Science MSc student at Corvinus University of Budapest, graduating June 2026. I work on **applied statistics, causal inference, and data analysis** — most recently using regression discontinuity methods to study how LLM training cutoffs shape software adoption.
 
-**I enjoy working on:**
+Looking for entry-level **data scientist / data analyst** roles. Budapest local or remote EU.
 
-- 🏙️ Linking urban form and public transport topology to access and opportunities  
-- 📊 Measuring segregation and fragmentation in counties using national data  
-- ⚽ Building reproducible analyses on football‑related and musical data  
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rolandtuboly10) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tuboly.roli.10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuboly.roland.levente@gmail.com)
-
-## 🛠️ Tech Stack
-**Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-**Data Science & ML**  
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NetworkX](https://img.shields.io/badge/networkx-1C6B8F?style=for-the-badge&logo=networkx&logoColor=white)
-
-**Databases & Tools**  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-## Highlighted repositories
-
-- **[UK Road Safety Analysis](https://github.com/tubolyroli/aimlgroupproject)**  
-  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]() [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)]()  
-  Built an end‑to‑end ML pipeline on UK STATS19 2024 road safety data to predict fatal collisions, with leakage‑safe preprocessing, class imbalance handling, and recall‑focused evaluation.
-
-- **[LLM Knowledge Cutoff Bias](https://github.com/tubolyroli/thesis)**  
-  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]() [![RDD](https://img.shields.io/badge/-RDD-FF6F00?logo=stats&logoColor=white)]()  
-  Building an RDD estimation framework to test whether LLMs' training cutoffs create systemic bias against Python libraries released shortly after major cutoff dates, potentially hindering innovation diffusion in the Python ecosystem.
-
-- **[Hungarian Counties Network Analysis](https://github.com/KrisX03/Differences-between-Hungarian-counties)**  
-  [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)]() [![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-4B8BBE?logo=networkx&logoColor=white)]()  
-  Course project studying industrial structure differences between Győr‑Moson‑Sopron and Hajdú‑Bihar counties using network‑analytic tools.
-
-## 🌱 Currently learning
-- **Deep Learning** (PyTorch, Transformers)
-- **Productionizing ML models** (Docker, FastAPI)
-- **Advanced Network Analysis** (dynamic networks, graph neural networks)
-
-## 🔭 What I'm working on right now
-- 📚 **Learning:** interactive data apps with **Shiny** and **Streamlit**  
-- 🛠️ **Building:** small reproducible projects on network robustness, diffusion, and urban inequality using open data  
-- 🚀 **Improving:** better version control workflows and research transparency  
-
-## 🎧 What I'm listening to
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hsjm5kfjyneulsinlybrk2y&count=3)
+📫 [tuboly.roland.levente@gmail.com](mailto:tuboly.roland.levente@gmail.com) · [LinkedIn](https://linkedin.com/in/rolandtuboly10)
 
 ---
 
-<div align="center" style="background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 20px; padding: 15px 25px; margin: 20px 0; display: inline-block;">
-  <b>🤝 Let's connect!</b> I'm always open to discussions, collaboration opportunities, or just chatting about music and football analytics.🤝
-</div>
+## Highlighted work
+
+### [Do LLMs Shape the Diffusion of New Software?](https://github.com/tubolyroli/thesis)
+*MSc thesis · Python · Regression Discontinuity Design + Diff-in-Discontinuities*
+
+Tests whether LLM training cutoffs distort the diffusion of newly released Python libraries. Estimated using RDD around the documented September 2021 GPT-3.5/GPT-4 cutoff, with 2018-2020 placebo cohorts isolating cutoff-specific effects from seasonal confounding.
+
+**Result:** pre-cutoff Python libraries average roughly five times more weekly downloads than post-cutoff peers by early 2026, with no evidence of catch-up. Effect is absent at release and emerges only after ChatGPT launch (Nov 2022). Baseline-adjusted Diff-in-RDD p = 0.002 with year-by-week clustered standard errors.
+
+### [UK Road Safety — Predicting Fatal Collisions](https://github.com/tubolyroli/aimlgroupproject)
+*Course project · Python · scikit-learn*
+
+End-to-end ML pipeline on UK STATS19 2024 road safety data, predicting whether a collision will be fatal. The dataset is severely imbalanced (~1.5% fatal), so the modeling problem is fundamentally one of *finding the rare positive class*, not maximizing accuracy.
+
+**Methodological framing:** A majority-rule baseline scores 98.5% accuracy and 0% recall on fatal cases — useless despite the high accuracy. The right metric is **recall on the fatal class**, since false negatives (missed fatal collisions) are far costlier than false positives in a road-safety triage context.
+
+**Approach:** leakage-safe preprocessing (no target-derived features). Class imbalance handled in-model via `class_weight="balanced"` (Lasso) and `"balanced_subsample"` (random forest), avoiding the artificial-sample artifacts of SMOTE-style resampling. Hyperparameters selected via **5-fold stratified cross-validation with `recall` as the scoring metric**, then final performance reported on a held-out test set.
+
+**Result:** Lasso Logistic Regression outperformed Random Forest, achieving **0.78 recall and 0.83 ROC AUC** on the fatal class versus 0.64 / 0.80 for random forest. The simpler regularized linear model beating the tree ensemble is consistent with much of the predictive signal being approximately linear once categorical features are encoded.
+
+### [Hungarian Counties — Industrial Network Analysis](https://github.com/KrisX03/Differences-between-Hungarian-counties)
+*Course project · R · igraph, network analysis*
+
+Network analysis of industrial structure differences between Győr-Moson-Sopron and Hajdú-Bihar counties, building a bipartite firm-industry network from national administrative data and comparing structural properties across the two regions.
+
+**My contribution:** owned the **node-level analysis** component — building the per-node summaries (centrality measures, node attributes) that fed into the comparative analysis. Also handled the final cleanup pass before submission (naming conventions, repo structure). 
+
+---
+
+## Tools
+
+**Core:** Python (pandas, numpy, scikit-learn, statsmodels) · R · LaTeX · Git
+**Comfortable with:** RDD/DiD/IV (rdrobust, fixest), NetworkX, matplotlib/seaborn
+**Currently building:** SQL fluency for industry data work, predictive ML workflows beyond coursework
+
+---
+
+## About
+
+I came into data science from a business undergrad, and the path through Corvinus's Social Data Science MSc has shaped what I'm good at: **applied statistics with a causal lens, communicating findings clearly, and building reproducible analyses**. My thesis pushed me deepest on the first two — running an RDD on real ecosystem data, defending the identifying assumptions, and presenting the result to non-specialists.
+
+SQL fluency at industry depth and end-to-end predictive ML are my current focus areas through summer 2026.
+
+If you're hiring for entry-level data roles in Budapest or remote EU, I'd be glad to talk.
