@@ -1,6 +1,6 @@
 # Roland Tuboly
 
-Social Data Science MSc student at Corvinus University of Budapest, graduating June 2026. I work on **applied statistics, causal inference, and data analysis** — most recently using regression discontinuity methods to study how LLM training cutoffs shape software adoption.
+Social Data Science final-year MSc student at Corvinus University of Budapest, graduating June 2026. I work on **applied statistics, causal inference, and data analysis** — most recently using regression discontinuity methods to study how LLM training cutoffs shape software adoption.
 
 Looking for entry-level **data scientist / data analyst** roles. Budapest local or remote EU.
 
