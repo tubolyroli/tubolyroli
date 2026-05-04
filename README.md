@@ -40,7 +40,9 @@ Network analysis of industrial structure differences between Győr-Moson-Sopron 
 ## Tools
 
 **Core:** Python (pandas, numpy, scikit-learn, statsmodels) · R · LaTeX · Git
+
 **Comfortable with:** RDD/DiD/IV (rdrobust, fixest), NetworkX, matplotlib/seaborn
+
 **Currently building:** SQL fluency for industry data work, predictive ML workflows beyond coursework
 
 ---
