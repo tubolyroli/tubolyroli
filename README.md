@@ -12,6 +12,7 @@ Looking for entry-level **data scientist / data analyst** roles. Budapest local 
 
 ### [Do LLMs Shape the Diffusion of New Software?](https://github.com/tubolyroli/thesis)
 *MSc thesis · Python · Regression Discontinuity Design + Diff-in-Discontinuities*
+
 *Awarded 1st place at Corvinus TDK 2026; nominated to OTDK*
 
 Tests whether LLM training cutoffs distort the diffusion of newly released Python libraries. Estimated using RDD around the documented September 2021 GPT-3.5/GPT-4 cutoff, with 2018-2020 placebo cohorts isolating cutoff-specific effects from seasonal confounding.
